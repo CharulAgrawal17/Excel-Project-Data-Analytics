@@ -4,7 +4,8 @@ My projects demonstrating my Excel skills
 
 ## Salary Dashboard
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
-([Checkout my work here](https://github.com/CharulAgrawal17/Excel-Project-Data-Analytics/blob/main/Data%20Science%20Salary%20Visualization.xlsx))  
+
+[Checkout my work here](https://github.com/CharulAgrawal17/Excel-Project-Data-Analytics/blob/main/Data%20Science%20Salary%20Visualization.xlsx)  
 ![Final Salary Dashboard](https://github.com/user-attachments/assets/4ce29d44-a7c1-4888-93c6-663da46b6777)
 
 ## Salary Analysis
